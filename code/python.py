@@ -2,7 +2,7 @@ __id__ = "custom_shortcuts"
 __name__ = "Custom Shortcuts"
 __description__ = "Create a client shortcut with a custom name and icon"
 __author__ = "@itNotMax - @MaxExteraPlugins"
-__version__ = "1.0.3"
+__version__ = "1.0.4"
 __min_version__ = "12.10.6"
 __icon__ = "MaxExteraPluginsStickers/8"
 
